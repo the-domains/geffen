@@ -1,0 +1,23 @@
+name: Geffen
+favicon: null
+layout_spectrum: 0.6657569350209087
+typography_spectrum: 0.972146472427994
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9547671515028924
+  lightness: 0.04159903363324702
+  saturation: 0.5036012332420796
+  rhythmicContrast: 0.9078987878747284
+purpose: []
